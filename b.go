@@ -2,8 +2,8 @@ package modb
 
 import "fmt"
 
-var Version="v2.0.6"
+var Version="v2.0.7"
 
-func main() {
+func Print() {
 	fmt.Println("modb", Version)
 }

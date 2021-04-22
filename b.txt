@@ -4,6 +4,6 @@ import "fmt"
 
 var Version="v2.0.1"
 
-func main() {
+func Print() {
 	fmt.Println("modb", Version)
 }
