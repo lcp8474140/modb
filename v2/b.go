@@ -1,4 +1,4 @@
-package modb
+package modbv2
 
 import "fmt"
 
