@@ -1,9 +1,11 @@
 package modb
 
 import "fmt"
+import "github.com/lcp8474140/modc"
 
 var Version="v2.0.1"
 
 func Print() {
 	fmt.Println("modb", Version)
+	modc.Print()
 }
